@@ -1,4 +1,5 @@
 import sys
+# Oki let's make a minor change to try with
 # ask user for number of vertices
 verts = eval(input("enter number of vertices: "))
 
